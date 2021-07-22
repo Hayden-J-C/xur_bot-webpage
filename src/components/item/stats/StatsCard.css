@@ -1,0 +1,12 @@
+.stats-card-container {
+    height: 90%;
+    width: 15%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 500px) {
+    .stats-card-container{
+        display: table-row;
+    }
+}

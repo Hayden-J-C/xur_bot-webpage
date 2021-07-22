@@ -1,0 +1,17 @@
+.inventory-card-container {
+    height: max-content;
+}
+
+.fading-line {
+    margin: 25px 0;
+    height: 1px;
+    border: none;
+    background: black;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, white));
+}
+
+.inventory-header {
+    height: 30px;
+    font-size: 40px;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}

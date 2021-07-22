@@ -1,0 +1,17 @@
+.item-icon-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+.item-icon {
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    height: 96px;
+    width: 96px;
+}

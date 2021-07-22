@@ -1,0 +1,27 @@
+.stats-icon-container {
+    display: table;
+    height: 30px;
+}
+
+.stats-icon {
+    height: 30px;
+    width: 30px;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 2px;
+    filter: invert(17%) sepia(11%) saturate(2480%) hue-rotate(185deg) brightness(94%) contrast(93%);
+    opacity: 90%;
+}
+
+.stats-text-container {
+    height: 30px;
+    width: 30px;
+    display: table-cell;
+    font-size: 20px;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    color: #25304c;
+    text-shadow: 1px 1px rgba(255,255,255,0.8);
+    opacity: 90%;
+    font-weight: 600;
+    vertical-align: middle;
+}
